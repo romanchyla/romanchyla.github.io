@@ -8,23 +8,25 @@
       link: /services/
     - name: Contact
       link: /contact/
-    - name: Advice
+    - name: Initiatives
       link: /advice/
+    - name: Donate
+      link: /donate/
 - title: Social
   links:
+    - name: SNEPOA Forum
+      link: https://forum.snepoa.com
+      social_icon: Discourse
+      new_window: true
     - name: Facebook
-      link: http://facebook.com/cloudcannon/
+      link: http://facebook.com/snepoa/
       social_icon: Facebook
       new_window: true
     - name: Twitter
-      link: http://twitter.com/cloudcannon
+      link: http://twitter.com/snepoa
       social_icon: Twitter
       new_window: true
-    - name: Instagram
-      link: http://instagram.com/
-      social_icon: Instagram
-      new_window: true
     - name: LinkedIn
-      link: https://nz.linkedin.com/company/cloud-cannon/
+      link: https://us.linkedin.com/company/snepoa/
       social_icon: LinkedIn
       new_window: true

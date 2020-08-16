@@ -1,10 +1,10 @@
 # ----
 # Site
 
-title: Justice Template
-url: "https://orchid-heron.cloudvent.net"
+title: Southern New England Property Owners Association
+url: "https://www.snepoa.com"
 baseurl: 
-google_analytics_key:
+google_analytics_key: UA-175511633-2
 google_maps_javascript_api_key:
 disqus_shortname:
 
@@ -98,6 +98,7 @@ social_icons:
   - Twitter
   - YouTube
   - RSS
+  - Discourse
 
 _comments:
   large_header: Toggles the size of the top banner.
